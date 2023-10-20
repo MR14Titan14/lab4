@@ -1,0 +1,3 @@
+C:/Users/Sasha/gitlab4/cmake-build-debug/CMakeFiles/gitlab4.dir
+C:/Users/Sasha/gitlab4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Sasha/gitlab4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
