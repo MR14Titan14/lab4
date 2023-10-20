@@ -1,5 +1,4 @@
 #include <iostream>
-using namespace std;
 ine main(){
     string name;
     cin>>name;
