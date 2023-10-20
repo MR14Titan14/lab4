@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std;
+//Тут мог быть ваш using namespace std;
 ine main(){
     string name;
     cin>>name;
